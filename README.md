@@ -1,4 +1,3 @@
-# quantum-toeplitz-benchmark
 
 # Quantum Toeplitz Benchmark
 
